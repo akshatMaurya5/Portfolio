@@ -8,8 +8,13 @@ function About() {
       <div className="w-full md:w-6/12">
         <SectionTitle>About Me</SectionTitle>
         <p className="text-md text-gray-600 dark:text-gray-300">
-          Pre-final year student at NIT Jalandhar. Loves problem solving.
-          Passionate about sports especially cricket.
+          I enjoy working on personal projects and experimenting with different
+          coding approaches in order to develop my understanding of how
+          different systems and processes work. I am also very interested in
+          collaborating with other developers and learning from their
+          experiences and expertise. Overall, I am passionate about software
+          development and believe that it is a constantly evolving field with
+          endless opportunities for learning and growth.
         </p>
         <br />
         <button
@@ -29,7 +34,7 @@ function About() {
           >
             <path d="M12 5c1.609 0 3.12.614 4.254 1.73 1.126 1.107 1.746 2.579 1.746 4.14s-.62 3.03-1.745 4.139l-4.255 4.184-4.254-4.186c-1.125-1.107-1.745-2.576-1.745-4.139s.62-3.032 1.745-4.141c1.135-1.113 2.647-1.727 4.254-1.727m0-2c-2.047 0-4.096.768-5.657 2.305-3.124 3.074-3.124 8.057 0 11.131l5.657 5.563 5.657-5.565c3.124-3.072 3.124-8.056 0-11.129-1.561-1.537-3.609-2.305-5.657-2.305zM12 8.499c.668 0 1.296.26 1.768.731.976.976.976 2.562 0 3.537-.473.472-1.1.731-1.768.731s-1.295-.26-1.768-.731c-.976-.976-.976-2.562 0-3.537.473-.471 1.101-.731 1.768-.731m0-1c-.896 0-1.792.342-2.475 1.024-1.367 1.367-1.367 3.584 0 4.951.684.684 1.578 1.024 2.475 1.024s1.792-.342 2.475-1.024c1.366-1.367 1.366-3.584 0-4.951-.683-.683-1.579-1.024-2.475-1.024z"></path>
           </svg>
-           <p class="m-1">Ludhana, Punjab.</p>
+          <p class="m-1">Ludhana, Punjab.</p>
         </button>
         <br />
         <br />
@@ -70,10 +75,7 @@ function About() {
           >
             <path d="M880 112H144c-17.7 0-32 14.3-32 32v736c0 17.7 14.3 32 32 32h736c17.7 0 32-14.3 32-32V144c0-17.7-14.3-32-32-32zM349.3 793.7H230.6V411.9h118.7v381.8zm-59.3-434a68.8 68.8 0 1 1 68.8-68.8c-.1 38-30.9 68.8-68.8 68.8zm503.7 434H675.1V608c0-44.3-.8-101.2-61.7-101.2-61.7 0-71.2 48.2-71.2 98v188.9H423.7V411.9h113.8v52.2h1.6c15.8-30 54.5-61.7 112.3-61.7 120.2 0 142.3 79.1 142.3 181.9v209.4z"></path>
           </svg>
-          <a
-            href="https://www.linkedin.com/in/akshat-maurya-4275a3240/"
-            target="_blank"
-          >
+          <a href="https://www.linkedin.com/in/akshatmaurya5/" target="_blank">
             LinkedIn
           </a>
         </button>

@@ -13,7 +13,7 @@ export default [
 
     description:
       // "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi rerum quia harum eaque, quae laboriosam quisquam distinctio.",
-      "Solved around 600+ problems.",
+      "800+ probems solved at LEETCODE.",
   },
   {
     title: "Codeforces",
@@ -21,7 +21,7 @@ export default [
     link: "https://codeforces.com/profile/saymyname_5",
     description:
       // "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi rerum quia harum eaque, quae laboriosam quisquam distinctio.",
-      "Specialist at Codeforces.",
+      "Specialist at CODEFORCES.",
   },
   ,
   {
@@ -31,6 +31,6 @@ export default [
 
     description:
       // "Lorem ipsum dolor sit amet consetetur adipisicing elit. Quasi rerum quia harum eaque, quae laboriosam quisquam distinctio.",
-      "3 🌟 at codechef.",
+      "3 🌟 at CODECHEF.",
   },
 ];
